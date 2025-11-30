@@ -1,0 +1,5 @@
+{
+  "name": "DİKA - Dijital Kitap Asistanı",
+  "description": "Yüklenen PDF kitaplarını ve metinleri analiz ederek 13 yaş altı çocuklar için uygunluğunu değerlendiren yapay zeka destekli bir araç.",
+  "requestFramePermissions": []
+}
